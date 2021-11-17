@@ -3,14 +3,7 @@
 /**
 BASE:DENIS
 TQ TO:
-@Angga
-@DcodeDenpa
-@Aldy Fauzy
-@PAJAR
-@KEMOL
-@ADI
-@KurrXd
-@Finx
+@YAHYA
 * Note:
 * Kalau Mau Recode/Reupload Kasih Credit
 **/
